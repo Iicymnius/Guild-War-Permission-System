@@ -1,0 +1,2 @@
+"savasizin";
+"Savaþlara giriþ yetkin yok. Yetki alabilmek için lonca liderinle görüþ.";
